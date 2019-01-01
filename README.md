@@ -1,2 +1,2 @@
 # Reporting
-the application that able to report the information about an organisation
+This is a Zend framework 3 module intended to report various documents and events.
